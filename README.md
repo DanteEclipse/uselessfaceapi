@@ -1,2 +1,2 @@
 # uselessfaceapi
-no destinado a uso, también en desuso
+not intended for use, also deprecated
